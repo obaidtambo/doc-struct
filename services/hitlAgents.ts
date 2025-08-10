@@ -97,7 +97,7 @@ function createMergePrompt(paragraphsToMerge: AnalyzedParagraph[], userInstructi
  * @returns A promise that resolves to an array of ID groups to suggest for merging.
  */
 export const getMergeSuggestions = async (paragraphs: AnalyzedParagraph[]): Promise<string[][]> => {
-    const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+    const ai = new GoogleGenAI({ apiKey: process.env.VITE_API_KEY });
 
     const responseSchema = {
         type: Type.ARRAY,
@@ -145,7 +145,7 @@ export const generateMergeResult = async (
     paragraphsToMerge: AnalyzedParagraph[],
     userInstruction?: string
 ): Promise<{ content: string; enrichment: Record<string, string> }> => {
-    const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+    const ai = new GoogleGenAI({ apiKey: process.env.VITE_API_KEY });
 
     const responseSchema = {
         type: Type.OBJECT,

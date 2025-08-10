@@ -94,9 +94,9 @@ This application is configured using environment variables. To run or deploy it,
 
 A template file named `.env.example` is included in the project. It lists all the required variables.
 
-*   `API_KEY`: Your Google Gemini API Key.
-*   `AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT`: The endpoint URL for your Azure Document Intelligence service.
-*   `AZURE_DOCUMENT_INTELLIGENCE_KEY`: The access key for your Azure Document Intelligence service.
+*   `VITE_API_KEY`: Your Google Gemini API Key.
+*   `VITE_AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT`: The endpoint URL for your Azure Document Intelligence service.
+*   `VITE_AZURE_DOCUMENT_INTELLIGENCE_KEY`: The access key for your Azure Document Intelligence service.
 
 ### Deploying to the Cloud
 
@@ -104,7 +104,7 @@ To deploy this application to a cloud provider like Vercel, Netlify, or Google C
 
 1.  Go to your project's dashboard on your cloud provider's website.
 2.  Find the "Environment Variables" or "Secrets" section in the project/site settings.
-3.  Add the three variables (`API_KEY`, `AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT`, and `AZURE_DOCUMENT_INTELLIGENCE_KEY`) with your actual keys and endpoint URL as their values.
+3.  Add the three variables (`VITE_API_KEY`, `VITE_AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT`, and `VITE_AZURE_DOCUMENT_INTELLIGENCE_KEY`) with your actual keys and endpoint URL as their values.
 4.  Redeploy your application. The new settings will take effect, and the application will work correctly.
 
 ## Local Development & Testing

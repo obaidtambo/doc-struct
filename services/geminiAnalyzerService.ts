@@ -79,7 +79,7 @@ function createAnalysisPrompt(ocrData: OcrBlock[]): string {
  * @returns A promise that resolves to an array of AnalyzedParagraph.
  */
 export const analyzeParagraphHierarchy = async (ocrData: OcrBlock[]): Promise<AnalyzedParagraph[]> => {
-    const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+    const ai = new GoogleGenAI({ apiKey: process.env.VITE_API_KEY });
     
     const responseSchema = {
         type: Type.ARRAY,

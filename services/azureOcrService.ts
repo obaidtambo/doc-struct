@@ -5,8 +5,8 @@
 // like Jest or Vitest and mock the global `fetch` function.
 //
 // 1. **Set Mock Environment Variables**: Before running tests, set mock values for
-//    `process.env.AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT` and
-//    `process.env.AZURE_DOCUMENT_INTELLIGENCE_KEY`.
+//    `process.env.VITE_AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT` and
+//    `process.env.VITE_AZURE_DOCUMENT_INTELLIGENCE_KEY`.
 //
 // 2. **Initial Request Mock**:
 //    - Mock `fetch` to handle the initial POST request.
@@ -38,11 +38,11 @@
 //  IMPORTANT: AZURE CREDENTIALS CONFIGURATION
 //  This application is configured to use environment variables for API keys.
 //  For deployment, set the following variables in your cloud provider's settings:
-//  - AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT
-//  - AZURE_DOCUMENT_INTELLIGENCE_KEY
+//  - VITE_AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT
+//  - VITE_AZURE_DOCUMENT_INTELLIGENCE_KEY
 // =================================================================
-const AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT = process.env.AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT;
-const AZURE_DOCUMENT_INTELLIGENCE_KEY = process.env.AZURE_DOCUMENT_INTELLIGENCE_KEY;
+const VITE_AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT = process.env.VITE_AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT;
+const VITE_AZURE_DOCUMENT_INTELLIGENCE_KEY = process.env.VITE_AZURE_DOCUMENT_INTELLIGENCE_KEY;
 // =================================================================
 
 
@@ -89,7 +89,7 @@ async function pollForResult(operationUrl: string): Promise<any> {
 
         const response = await fetch(operationUrl, {
             headers: {
-                'Ocp-Apim-Subscription-Key': AZURE_DOCUMENT_INTELLIGENCE_KEY!,
+                'Ocp-Apim-Subscription-Key': VITE_AZURE_DOCUMENT_INTELLIGENCE_KEY!,
             },
         });
 
@@ -123,13 +123,13 @@ async function pollForResult(operationUrl: string): Promise<any> {
  * @returns A promise that resolves to an object containing OcrBlocks and page dimensions.
  */
 export const extractTextWithLayout = async (file: File): Promise<OcrExtractionResult> => {
-    if (!AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT || !AZURE_DOCUMENT_INTELLIGENCE_KEY) {
-        throw new Error("Azure Document Intelligence credentials are not configured. Please set the AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT and AZURE_DOCUMENT_INTELLIGENCE_KEY environment variables in your deployment settings.");
+    if (!VITE_AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT || !VITE_AZURE_DOCUMENT_INTELLIGENCE_KEY) {
+        throw new Error("Azure Document Intelligence credentials are not configured. Please set the VITE_AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT and VITE_AZURE_DOCUMENT_INTELLIGENCE_KEY environment variables in your deployment settings.");
     }
     
     console.log(`Starting Azure Document Intelligence analysis for file: ${file.name}`);
     
-    const analyzeUrl = `${AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT.replace(/\/$/, '')}/documentintelligence/documentModels/prebuilt-layout:analyze?api-version=2024-02-29-preview`;
+    const analyzeUrl = `${VITE_AZURE_DOCUMENT_INTELLIGENCE_ENDPOINT.replace(/\/$/, '')}/documentintelligence/documentModels/prebuilt-layout:analyze?api-version=2024-02-29-preview`;
     
     const fileBuffer = await file.arrayBuffer();
 
@@ -137,7 +137,7 @@ export const extractTextWithLayout = async (file: File): Promise<OcrExtractionRe
         method: 'POST',
         headers: {
             'Content-Type': 'application/pdf',
-            'Ocp-Apim-Subscription-Key': AZURE_DOCUMENT_INTELLIGENCE_KEY,
+            'Ocp-Apim-Subscription-Key': VITE_AZURE_DOCUMENT_INTELLIGENCE_KEY,
         },
         body: fileBuffer,
     });

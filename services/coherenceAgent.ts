@@ -72,7 +72,7 @@ function createCoherencePrompt(paragraphs: AnalyzedParagraph[]): string {
  * @returns A promise that resolves to a new, more coherent array of AnalyzedParagraph.
  */
 export const refineAndMergeNodes = async (paragraphs: AnalyzedParagraph[]): Promise<AnalyzedParagraph[]> => {
-    const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+    const ai = new GoogleGenAI({ apiKey: process.env.VITE_API_KEY });
     
     const responseSchema = {
         type: Type.ARRAY,
