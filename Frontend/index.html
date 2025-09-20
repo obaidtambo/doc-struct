@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Docu-Struct Visualizer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+              mono: ['ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas', "Liberation Mono", "Courier New", 'monospace'],
+            },
+            colors: {
+              'brand-primary': '#4f46e5', // indigo-600
+              'brand-secondary': '#6366f1', // indigo-500
+              'brand-light': '#e0e7ff', // indigo-100
+              'brand-dark': '#3730a3', // indigo-800
+              'base-100': '#ffffff', // white
+              'base-200': '#f9fafb', // gray-50
+              'base-300': '#e5e7eb', // gray-200
+              'content-primary': '#1f2937', // gray-800
+              'content-secondary': '#6b7280', // gray-500
+            }
+          }
+        }
+      }
+    </script>
+  <script type="importmap">
+{
+  "imports": {
+    "react": "https://aistudiocdn.com/react@^19.1.1",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.1.1/",
+    "react/": "https://aistudiocdn.com/react@^19.1.1/",
+    "d3": "https://aistudiocdn.com/d3@^7.9.0",
+    "pdfjs-dist": "https://aistudiocdn.com/pdfjs-dist@^5.4.149",
+    "pdfjs-dist/": "https://aistudiocdn.com/pdfjs-dist@^5.4.149/",
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.20.0",
+    "vite": "https://aistudiocdn.com/vite@^7.1.6",
+    "@vitejs/plugin-react": "https://aistudiocdn.com/@vitejs/plugin-react@^5.0.3",
+    "path": "https://aistudiocdn.com/path@^0.12.7"
+  }
+}
+</script>
+</head>
+  <body class="bg-base-200">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>

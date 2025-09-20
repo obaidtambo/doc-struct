@@ -1,0 +1,2188 @@
+{
+  "document_id": "Obaid_Tamboli_CV_1758388992",
+  "document_structure": [
+    {
+      "section_id": "section-0",
+      "metadata": {
+        "spans": [
+          {
+            "offset": 0,
+            "length": 87
+          },
+          {
+            "offset": 100,
+            "length": 3441
+          },
+          {
+            "offset": 3555,
+            "length": 84
+          },
+          {
+            "offset": 3658,
+            "length": 2172
+          }
+        ],
+        "element_refs": [
+          "/sections/1",
+          "/sections/2",
+          "/sections/5",
+          "/sections/8"
+        ]
+      },
+      "content": [],
+      "children": [
+        {
+          "section_id": "section-4",
+          "metadata": {
+            "spans": [
+              {
+                "offset": 2374,
+                "length": 1167
+              },
+              {
+                "offset": 3555,
+                "length": 84
+              },
+              {
+                "offset": 3658,
+                "length": 1077
+              }
+            ],
+            "element_refs": [
+              "/paragraphs/25",
+              "/paragraphs/26",
+              "/paragraphs/27",
+              "/paragraphs/28",
+              "/paragraphs/29",
+              "/paragraphs/30",
+              "/paragraphs/31",
+              "/paragraphs/32",
+              "/paragraphs/33",
+              "/paragraphs/34",
+              "/paragraphs/35",
+              "/paragraphs/36",
+              "/paragraphs/38",
+              "/paragraphs/39",
+              "/paragraphs/40",
+              "/paragraphs/41",
+              "/paragraphs/42",
+              "/paragraphs/43"
+            ]
+          },
+          "content": [
+            {
+              "spans": [
+                {
+                  "offset": 2374,
+                  "length": 16
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    0.3833,
+                    8.1116,
+                    2.5211,
+                    8.1144,
+                    2.5208,
+                    8.3417,
+                    0.383,
+                    8.339
+                  ]
+                }
+              ],
+              "role": "sectionHeading",
+              "content": "TECHNICAL SKILLS",
+              "pageNumber": 1,
+              "boundingBox": {
+                "x": 0.383,
+                "y": 8.1116,
+                "width": 2.1381,
+                "height": 0.2301000000000002
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 2391,
+                  "length": 234
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    0.3922,
+                    8.5232,
+                    7.7865,
+                    8.5209,
+                    7.7867,
+                    8.905,
+                    0.3924,
+                    8.9074
+                  ]
+                }
+              ],
+              "content": "\u00b7 Core Programming & Data Science: Python (Pandas, NumPy, Scikit-learn, PyTorch, NLTK), SQL, Java - solid foundation for statistical modeling, feature engineering, and algorithm development. Exploratory Data Analysis in Python | Udemy",
+              "pageNumber": 1,
+              "boundingBox": {
+                "x": 0.3922,
+                "y": 8.5209,
+                "width": 7.3945,
+                "height": 0.3865000000000016
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 2626,
+                  "length": 26
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    0.563,
+                    8.9895,
+                    2.2962,
+                    8.991,
+                    2.2961,
+                    9.1658,
+                    0.5628,
+                    9.1643
+                  ]
+                }
+              ],
+              "content": "Hypothesis Testing | Udemy",
+              "pageNumber": 1,
+              "boundingBox": {
+                "x": 0.5628,
+                "y": 8.9895,
+                "width": 1.7333999999999998,
+                "height": 0.17630000000000123
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 2653,
+                  "length": 72
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    2.4923,
+                    8.9886,
+                    7.2513,
+                    8.9912,
+                    7.2512,
+                    9.1651,
+                    2.4922,
+                    9.1624
+                  ]
+                }
+              ],
+              "content": "Neural Networks in Python | Udemy Intro to Deep Learning in Java | Udemy",
+              "pageNumber": 1,
+              "boundingBox": {
+                "x": 2.4922,
+                "y": 8.9886,
+                "width": 4.7591,
+                "height": 0.17650000000000077
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 2726,
+                  "length": 32
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    0.5647,
+                    9.243,
+                    2.6957,
+                    9.2475,
+                    2.6953,
+                    9.4199,
+                    0.5644,
+                    9.4154
+                  ]
+                }
+              ],
+              "content": "Data Analytics & EDA App | Udemy",
+              "pageNumber": 1,
+              "boundingBox": {
+                "x": 0.5644,
+                "y": 9.243,
+                "width": 2.1313,
+                "height": 0.17689999999999984
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 2759,
+                  "length": 310
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    0.3922,
+                    9.4847,
+                    7.9307,
+                    9.4861,
+                    7.9306,
+                    10.0313,
+                    0.3921,
+                    10.0299
+                  ]
+                }
+              ],
+              "content": "\u00b7 Machine Learning & Statistical Modeling: Panel Regression, Logistic Regression, Classification, Clustering, Segmentation Analysis, Time Series Forecasting, Statistical Validation; Explainable AI (SHAP, LIME) - applied across risk modeling, compliance, and forecasting use cases. Credit Risk in Python | Udemy",
+              "pageNumber": 1,
+              "boundingBox": {
+                "x": 0.3921,
+                "y": 9.4847,
+                "width": 7.5386,
+                "height": 0.5465999999999998
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 3070,
+                  "length": 66
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    0.5625,
+                    10.1112,
+                    4.6954,
+                    10.1179,
+                    4.6951,
+                    10.2831,
+                    0.5623,
+                    10.2765
+                  ]
+                }
+              ],
+              "content": "Introduction to Finance, Accounting, Modelling & Valuation | Udemy",
+              "pageNumber": 1,
+              "boundingBox": {
+                "x": 0.5623,
+                "y": 10.1112,
+                "width": 4.133100000000001,
+                "height": 0.17189999999999905
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 3137,
+                  "length": 293
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    0.3946,
+                    10.3568,
+                    7.7856,
+                    10.3571,
+                    7.7855,
+                    10.853,
+                    0.3946,
+                    10.8527
+                  ]
+                }
+              ],
+              "content": "\u00b7 GenAI & Intelligent Agents: LangChain, HuggingFace Transformers, LangGraph, Google Agentic Frameworks (AutoGen, Model Context Protocol - MPC), Retrieval-Augmented Generation (RAG) pipelines - building autonomous LLM-driven agents for compliance checking, reporting, and knowledge extraction.",
+              "pageNumber": 1,
+              "boundingBox": {
+                "x": 0.3946,
+                "y": 10.3568,
+                "width": 7.391,
+                "height": 0.4962
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 3431,
+                  "length": 65
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    0.5693,
+                    10.8908,
+                    4.8582,
+                    10.8974,
+                    4.8579,
+                    11.0624,
+                    0.569,
+                    11.0557
+                  ]
+                }
+              ],
+              "content": "Gen AI Foundational Models for NLP & Language Understanding | IBM",
+              "pageNumber": 1,
+              "boundingBox": {
+                "x": 0.569,
+                "y": 10.8908,
+                "width": 4.2892,
+                "height": 0.17159999999999975
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 3497,
+                  "length": 44
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    5.0529,
+                    10.9037,
+                    7.7542,
+                    10.898,
+                    7.7545,
+                    11.0547,
+                    5.0533,
+                    11.0605
+                  ]
+                }
+              ],
+              "content": "Introduction to Generative AI | Google Cloud",
+              "pageNumber": 1,
+              "boundingBox": {
+                "x": 5.0529,
+                "y": 10.898,
+                "width": 2.7016,
+                "height": 0.16249999999999964
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 3555,
+                  "length": 52
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    0.5675,
+                    0.525,
+                    3.9299,
+                    0.5243,
+                    3.9299,
+                    0.7011,
+                    0.5676,
+                    0.7019
+                  ]
+                }
+              ],
+              "content": "Introduction to Large Language Models | Google Cloud",
+              "pageNumber": 2,
+              "boundingBox": {
+                "x": 0.5675,
+                "y": 0.5243,
+                "width": 3.3624,
+                "height": 0.17759999999999998
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 3608,
+                  "length": 31
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    4.1223,
+                    0.5262,
+                    6.1332,
+                    0.5301,
+                    6.1329,
+                    0.7032,
+                    4.122,
+                    0.6993
+                  ]
+                }
+              ],
+              "content": "Designing AI Assistants | Udemy",
+              "pageNumber": 2,
+              "boundingBox": {
+                "x": 4.122,
+                "y": 0.5262,
+                "width": 2.0112000000000005,
+                "height": 0.17700000000000005
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 3658,
+                  "length": 17
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    0.5613,
+                    0.7824,
+                    1.7949,
+                    0.7827,
+                    1.7948,
+                    0.9597,
+                    0.5613,
+                    0.9594
+                  ]
+                }
+              ],
+              "content": "LangGraph | Udemy",
+              "pageNumber": 2,
+              "boundingBox": {
+                "x": 0.5613,
+                "y": 0.7824,
+                "width": 1.2336,
+                "height": 0.1773
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 3676,
+                  "length": 211
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    0.3915,
+                    1.0255,
+                    7.7821,
+                    1.0229,
+                    7.7823,
+                    1.3983,
+                    0.3916,
+                    1.4009
+                  ]
+                }
+              ],
+              "content": "\u00b7 Responsible Al & Ethics: Bias mitigation, fairness, explainability, and compliance-driven Al practices - ensuring ethical, transparent, and trustworthy AI systems. Introduction to Responsible AI | Google Cloud",
+              "pageNumber": 2,
+              "boundingBox": {
+                "x": 0.3915,
+                "y": 1.0229,
+                "width": 7.3908000000000005,
+                "height": 0.3780000000000001
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 3888,
+                  "length": 76
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    0.5603,
+                    1.4806,
+                    5.4973,
+                    1.4816,
+                    5.4973,
+                    1.6605,
+                    0.5603,
+                    1.6595
+                  ]
+                }
+              ],
+              "content": "Responsible AI: Applying AI Principles | Google Cloud Responsible AI | Udemy",
+              "pageNumber": 2,
+              "boundingBox": {
+                "x": 0.5603,
+                "y": 1.4806,
+                "width": 4.937,
+                "height": 0.17990000000000017
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 3965,
+                  "length": 279
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    0.394,
+                    1.7244,
+                    7.7528,
+                    1.7253,
+                    7.7527,
+                    2.2733,
+                    0.3939,
+                    2.2724
+                  ]
+                }
+              ],
+              "content": "\u00b7 Cloud & Big Data Platforms: Azure ML (Document Intelligence, Cognitive Search), Google Vertex Al, BigQuery, PySpark, Docker, Git, CI/CD pipelines - orchestrating end-to-end ML & GenAI workflows from training to enterprise-scale deployment. Google Cloud Professional ML Engineer",
+              "pageNumber": 2,
+              "boundingBox": {
+                "x": 0.3939,
+                "y": 1.7244,
+                "width": 7.358899999999999,
+                "height": 0.5488999999999999
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 4245,
+                  "length": 283
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    0.3879,
+                    2.3384,
+                    7.9594,
+                    2.3397,
+                    7.9593,
+                    2.9013,
+                    0.3878,
+                    2.8999
+                  ]
+                }
+              ],
+              "content": "\u00b7 MLOps & Model Lifecycle Management: MLflow, Model Monitoring (EvidentlyAl, Prometheus), Data Pipeline Orchestration (Airflow, Prefect) - ensuring reproducibility, scalable deployment, and continuous monitoring. Google Cloud Professional ML Engineer Data Analytics & EDA App | Udemy",
+              "pageNumber": 2,
+              "boundingBox": {
+                "x": 0.3878,
+                "y": 2.3384,
+                "width": 7.571599999999999,
+                "height": 0.5629
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 4529,
+                  "length": 206
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    0.3924,
+                    2.9544,
+                    7.9597,
+                    2.96,
+                    7.9594,
+                    3.3562,
+                    0.3921,
+                    3.3506
+                  ]
+                }
+              ],
+              "content": "\u00b7 Visualization & Automation: PowerBI, Matlab, N8n (workflow automation) - translating models into business insights and automated decision support. Data Visualization with PowerBI | Microsoft (recommended)",
+              "pageNumber": 2,
+              "boundingBox": {
+                "x": 0.3921,
+                "y": 2.9544,
+                "width": 7.5676,
+                "height": 0.4017999999999997
+              }
+            }
+          ],
+          "children": [],
+          "llm_corrected_promotion": true
+        },
+        {
+          "section_id": "section-7",
+          "metadata": {
+            "spans": [
+              {
+                "offset": 4957,
+                "length": 242
+              }
+            ],
+            "element_refs": [
+              "/paragraphs/48",
+              "/paragraphs/49",
+              "/paragraphs/50",
+              "/paragraphs/51",
+              "/paragraphs/52"
+            ]
+          },
+          "content": [
+            {
+              "spans": [
+                {
+                  "offset": 4957,
+                  "length": 13
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    0.3782,
+                    4.976,
+                    1.432,
+                    4.9767,
+                    1.4319,
+                    5.1556,
+                    0.3781,
+                    5.1549
+                  ]
+                }
+              ],
+              "role": "sectionHeading",
+              "content": "Mufti Chatbot",
+              "pageNumber": 2,
+              "boundingBox": {
+                "x": 0.3781,
+                "y": 4.976,
+                "width": 1.0539,
+                "height": 0.17959999999999976
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 4971,
+                  "length": 18
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    0.3768,
+                    5.197,
+                    1.7784,
+                    5.2039,
+                    1.7776,
+                    5.3682,
+                    0.376,
+                    5.3613
+                  ]
+                }
+              ],
+              "content": "Nov 2024 - Ongoing",
+              "pageNumber": 2,
+              "boundingBox": {
+                "x": 0.376,
+                "y": 5.197,
+                "width": 1.4024,
+                "height": 0.1711999999999998
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 4990,
+                  "length": 80
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    0.3852,
+                    5.348,
+                    5.5529,
+                    5.3659,
+                    5.5523,
+                    5.5348,
+                    0.3846,
+                    5.517
+                  ]
+                }
+              ],
+              "content": "\u00b7 Fine-tuned Llama2-7B model on Islamic QA dataset, improving response accuracy.",
+              "pageNumber": 2,
+              "boundingBox": {
+                "x": 0.3846,
+                "y": 5.348,
+                "width": 5.1683,
+                "height": 0.18679999999999986
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 5071,
+                  "length": 66
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    0.3867,
+                    5.5641,
+                    4.4043,
+                    5.5571,
+                    4.4046,
+                    5.7304,
+                    0.387,
+                    5.7374
+                  ]
+                }
+              ],
+              "content": "\u00b7 Integrated RAG pipeline with LangChain for contextual retrieval.",
+              "pageNumber": 2,
+              "boundingBox": {
+                "x": 0.3867,
+                "y": 5.5571,
+                "width": 4.0179,
+                "height": 0.1802999999999999
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 5138,
+                  "length": 61
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    0.3829,
+                    5.7673,
+                    4.1441,
+                    5.7635,
+                    4.1442,
+                    5.9351,
+                    0.383,
+                    5.9389
+                  ]
+                }
+              ],
+              "content": "\u00b7 Built web interface with Chainlit and deployed on Azure ML.",
+              "pageNumber": 2,
+              "boundingBox": {
+                "x": 0.3829,
+                "y": 5.7635,
+                "width": 3.7612999999999994,
+                "height": 0.17540000000000067
+              }
+            }
+          ],
+          "children": [],
+          "llm_corrected_promotion": true
+        }
+      ]
+    },
+    {
+      "section_id": "section-1",
+      "metadata": {
+        "spans": [
+          {
+            "offset": 0,
+            "length": 87
+          },
+          {
+            "offset": 100,
+            "length": 3
+          }
+        ],
+        "element_refs": [
+          "/paragraphs/0",
+          "/paragraphs/1",
+          "/paragraphs/2",
+          "/paragraphs/3",
+          "/paragraphs/5"
+        ]
+      },
+      "content": [
+        {
+          "spans": [
+            {
+              "offset": 0,
+              "length": 13
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.39,
+                0.4547,
+                2.9584,
+                0.4539,
+                2.9584,
+                0.763,
+                0.3901,
+                0.7637
+              ]
+            }
+          ],
+          "content": "OBAID TAMBOLI",
+          "pageNumber": 1,
+          "boundingBox": {
+            "x": 0.39,
+            "y": 0.4539,
+            "width": 2.5684,
+            "height": 0.3098
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 14,
+              "length": 31
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.3859,
+                0.8591,
+                2.7507,
+                0.8633,
+                2.7503,
+                1.0506,
+                0.3856,
+                1.0464
+              ]
+            }
+          ],
+          "content": "Gen-AI Specialist | ML Engineer",
+          "pageNumber": 1,
+          "boundingBox": {
+            "x": 0.3856,
+            "y": 0.8591,
+            "width": 2.3651,
+            "height": 0.1915
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 46,
+              "length": 24
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.383,
+                1.1169,
+                1.8257,
+                1.1194,
+                1.8255,
+                1.259,
+                0.3827,
+                1.2565
+              ]
+            }
+          ],
+          "content": "@ tamboliobaid@gmail.com",
+          "pageNumber": 1,
+          "boundingBox": {
+            "x": 0.3827,
+            "y": 1.1169,
+            "width": 1.443,
+            "height": 0.1420999999999999
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 71,
+              "length": 16
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                2.0796,
+                1.1178,
+                3.054,
+                1.1187,
+                3.0538,
+                1.246,
+                2.0795,
+                1.245
+              ]
+            }
+          ],
+          "content": "C +91 7066799011",
+          "pageNumber": 1,
+          "boundingBox": {
+            "x": 2.0795,
+            "y": 1.1178,
+            "width": 0.9744999999999999,
+            "height": 0.1282000000000001
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 100,
+              "length": 3
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                4.262,
+                1.1239,
+                4.493,
+                1.1237,
+                4.4931,
+                1.2408,
+                4.2621,
+                1.241
+              ]
+            }
+          ],
+          "content": "Web",
+          "pageNumber": 1,
+          "boundingBox": {
+            "x": 4.262,
+            "y": 1.1237,
+            "width": 0.23110000000000053,
+            "height": 0.11730000000000018
+          }
+        }
+      ],
+      "children": [],
+      "llm_corrected_promotion": true
+    },
+    {
+      "section_id": "section-2",
+      "metadata": {
+        "spans": [
+          {
+            "offset": 104,
+            "length": 3437
+          },
+          {
+            "offset": 3555,
+            "length": 84
+          },
+          {
+            "offset": 3658,
+            "length": 1077
+          }
+        ],
+        "element_refs": [
+          "/paragraphs/6",
+          "/paragraphs/7",
+          "/paragraphs/8",
+          "/paragraphs/9",
+          "/paragraphs/10",
+          "/paragraphs/11",
+          "/paragraphs/12",
+          "/paragraphs/13",
+          "/paragraphs/14",
+          "/paragraphs/15",
+          "/paragraphs/16",
+          "/paragraphs/17",
+          "/paragraphs/18",
+          "/sections/3",
+          "/sections/4"
+        ]
+      },
+      "content": [
+        {
+          "spans": [
+            {
+              "offset": 104,
+              "length": 10
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.3864,
+                1.4831,
+                1.7939,
+                1.4819,
+                1.7941,
+                1.7034,
+                0.3866,
+                1.7046
+              ]
+            }
+          ],
+          "role": "sectionHeading",
+          "content": "EXPERIENCE",
+          "pageNumber": 1,
+          "boundingBox": {
+            "x": 0.3864,
+            "y": 1.4819,
+            "width": 1.4077,
+            "height": 0.2226999999999999
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 115,
+              "length": 32
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.3837,
+                1.9167,
+                3.2605,
+                1.9247,
+                3.2598,
+                2.1513,
+                0.383,
+                2.1433
+              ]
+            }
+          ],
+          "content": "Sr. Executive Consultant (AI/ML)",
+          "pageNumber": 1,
+          "boundingBox": {
+            "x": 0.383,
+            "y": 1.9167,
+            "width": 2.8775,
+            "height": 0.23459999999999992
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 148,
+              "length": 14
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.3802,
+                2.1902,
+                1.3863,
+                2.1897,
+                1.3864,
+                2.3632,
+                0.3803,
+                2.3637
+              ]
+            }
+          ],
+          "content": "Deloitte India",
+          "pageNumber": 1,
+          "boundingBox": {
+            "x": 0.3802,
+            "y": 2.1897,
+            "width": 1.0062000000000002,
+            "height": 0.17399999999999993
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 163,
+              "length": 16
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.3772,
+                2.4323,
+                1.4938,
+                2.4347,
+                1.4934,
+                2.5931,
+                0.3769,
+                2.5907
+              ]
+            }
+          ],
+          "content": "@ 2024 - Present",
+          "pageNumber": 1,
+          "boundingBox": {
+            "x": 0.3769,
+            "y": 2.4323,
+            "width": 1.1169,
+            "height": 0.16080000000000005
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 180,
+              "length": 15
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                6.9643,
+                2.4436,
+                7.9526,
+                2.4462,
+                7.9522,
+                2.5877,
+                6.9639,
+                2.5852
+              ]
+            }
+          ],
+          "content": "\u00b7 Mumbai, India",
+          "pageNumber": 1,
+          "boundingBox": {
+            "x": 6.9639,
+            "y": 2.4436,
+            "width": 0.9887000000000006,
+            "height": 0.1440999999999999
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 196,
+              "length": 201
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.3859,
+                2.6256,
+                7.6756,
+                2.6279,
+                7.6755,
+                2.9628,
+                0.3858,
+                2.9605
+              ]
+            }
+          ],
+          "content": "\u00b7 Engineered and deployed a GenAl-based compliance checker utilizing Azure Document Intelligence, LangChain, and RAG pipelines, reducing manual review effort by 50% through automated document analysis.",
+          "pageNumber": 1,
+          "boundingBox": {
+            "x": 0.3858,
+            "y": 2.6256,
+            "width": 7.2898000000000005,
+            "height": 0.33720000000000017
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 398,
+              "length": 160
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.3939,
+                2.9947,
+                7.9552,
+                3.0026,
+                7.9548,
+                3.3424,
+                0.3935,
+                3.3345
+              ]
+            }
+          ],
+          "content": "\u00b7 Developed and optimized scalable ETL pipelines for complex IFRS 9 PD/ECL computations, improving data throughput by 40% across large-scale banking operations.",
+          "pageNumber": 1,
+          "boundingBox": {
+            "x": 0.3935,
+            "y": 2.9947,
+            "width": 7.561699999999999,
+            "height": 0.3477000000000001
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 559,
+              "length": 208
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.3922,
+                3.3736,
+                7.9561,
+                3.3735,
+                7.9561,
+                3.7097,
+                0.3922,
+                3.7098
+              ]
+            }
+          ],
+          "content": "\u00b7 Implemented advanced panel regression, logistic regression, classification, and clustering algorithms for financial stress testing and segmentation, elevating predictive accuracy for enterprise risk models.",
+          "pageNumber": 1,
+          "boundingBox": {
+            "x": 0.3922,
+            "y": 3.3735,
+            "width": 7.5639,
+            "height": 0.33630000000000004
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 768,
+              "length": 155
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.3903,
+                3.7414,
+                7.8064,
+                3.744,
+                7.8062,
+                4.0861,
+                0.3902,
+                4.0836
+              ]
+            }
+          ],
+          "content": "\u00b7 Designed and automated MLOps pipelines with CI/CD, MLflow, and Docker, cutting model deployment time by 30% and ensuring reproducible, scalable rollouts.",
+          "pageNumber": 1,
+          "boundingBox": {
+            "x": 0.3902,
+            "y": 3.7414,
+            "width": 7.4162,
+            "height": 0.3447
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 924,
+              "length": 201
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.3899,
+                4.1179,
+                7.4843,
+                4.1239,
+                7.484,
+                4.4615,
+                0.3896,
+                4.4554
+              ]
+            }
+          ],
+          "content": "\u00b7 Orchestrated the architectural design and migration of financial blob documents to a relational database, enabling hierarchical analysis and achieving faster query performance for critical reporting.",
+          "pageNumber": 1,
+          "boundingBox": {
+            "x": 0.3896,
+            "y": 4.1179,
+            "width": 7.0947000000000005,
+            "height": 0.34360000000000035
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 1126,
+              "length": 179
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.3859,
+                4.4895,
+                7.8938,
+                4.4916,
+                7.8937,
+                4.832,
+                0.3858,
+                4.8299
+              ]
+            }
+          ],
+          "content": "\u00b7 Leveraged BigQuery and PySpark to engineer and optimize large-scale data processing pipelines, automating credit risk analytics and regulatory reporting for enhanced efficiency.",
+          "pageNumber": 1,
+          "boundingBox": {
+            "x": 0.3858,
+            "y": 4.4895,
+            "width": 7.508,
+            "height": 0.34250000000000025
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 1306,
+              "length": 160
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.3889,
+                4.8667,
+                7.8247,
+                4.8658,
+                7.8247,
+                5.2042,
+                0.389,
+                5.2051
+              ]
+            }
+          ],
+          "content": "\u00b7 Conducted rigorous statistical validation of deployed ML models, ensuring robustness and compliance with Basel/IFRS standards and mitigating regulatory risks.",
+          "pageNumber": 1,
+          "boundingBox": {
+            "x": 0.3889,
+            "y": 4.8658,
+            "width": 7.4358,
+            "height": 0.3392999999999997
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 1467,
+              "length": 173
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 1,
+              "polygon": [
+                0.3898,
+                5.2357,
+                7.0984,
+                5.2403,
+                7.0981,
+                5.58,
+                0.3896,
+                5.5754
+              ]
+            }
+          ],
+          "content": "\u00b7 Managed and maintained Git-based version control workflows for collaborative development, guaranteeing reproducibility of ML stress testing frameworks across global teams.",
+          "pageNumber": 1,
+          "boundingBox": {
+            "x": 0.3896,
+            "y": 5.2357,
+            "width": 6.7088,
+            "height": 0.3443000000000005
+          }
+        }
+      ],
+      "children": [
+        {
+          "section_id": "section-3",
+          "metadata": {
+            "spans": [
+              {
+                "offset": 1641,
+                "length": 732
+              }
+            ],
+            "element_refs": [
+              "/paragraphs/19",
+              "/paragraphs/20",
+              "/paragraphs/21",
+              "/paragraphs/22",
+              "/paragraphs/23",
+              "/paragraphs/24"
+            ]
+          },
+          "content": [
+            {
+              "spans": [
+                {
+                  "offset": 1641,
+                  "length": 19
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    0.3872,
+                    5.8083,
+                    2.1113,
+                    5.8101,
+                    2.111,
+                    6.0077,
+                    0.387,
+                    6.0059
+                  ]
+                }
+              ],
+              "role": "sectionHeading",
+              "content": "Data Science Intern",
+              "pageNumber": 1,
+              "boundingBox": {
+                "x": 0.387,
+                "y": 5.8083,
+                "width": 1.7243,
+                "height": 0.1993999999999998
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 1661,
+                  "length": 54
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    0.3751,
+                    6.0552,
+                    7.9518,
+                    6.0544,
+                    7.9518,
+                    6.446,
+                    0.3752,
+                    6.4467
+                  ]
+                }
+              ],
+              "content": "Respirer Living Sciences Pvt. Ltd \u66f2 2023 9 Pune, India",
+              "pageNumber": 1,
+              "boundingBox": {
+                "x": 0.3751,
+                "y": 6.0544,
+                "width": 7.576700000000001,
+                "height": 0.39229999999999965
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 1716,
+                  "length": 180
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    0.388,
+                    6.4791,
+                    7.9239,
+                    6.4836,
+                    7.9237,
+                    6.825,
+                    0.3878,
+                    6.8204
+                  ]
+                }
+              ],
+              "content": "\u00b7 Developed and deployed resilient time series forecasting models for real-time healthcare monitoring systems, enhancing predictive accuracy by 15% for critical patient indicators.",
+              "pageNumber": 1,
+              "boundingBox": {
+                "x": 0.3878,
+                "y": 6.4791,
+                "width": 7.536099999999999,
+                "height": 0.3459000000000003
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 1897,
+                  "length": 157
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    0.3884,
+                    6.8567,
+                    7.923,
+                    6.8557,
+                    7.9231,
+                    7.1896,
+                    0.3885,
+                    7.1905
+                  ]
+                }
+              ],
+              "content": "\u00b7 Applied and integrated classification and clustering techniques to improve the precision of anomaly detection by 20% in large-scale environmental datasets.",
+              "pageNumber": 1,
+              "boundingBox": {
+                "x": 0.3884,
+                "y": 6.8557,
+                "width": 7.5347,
+                "height": 0.33480000000000043
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 2055,
+                  "length": 162
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    0.389,
+                    7.2279,
+                    7.6416,
+                    7.2287,
+                    7.6416,
+                    7.5632,
+                    0.389,
+                    7.5624
+                  ]
+                }
+              ],
+              "content": "\u00b7 Implemented Explainable AI (SHAP, LIME) techniques within production models, increasing model transparency and building stakeholder trust in predictive outputs.",
+              "pageNumber": 1,
+              "boundingBox": {
+                "x": 0.389,
+                "y": 7.2279,
+                "width": 7.2526,
+                "height": 0.33530000000000015
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 2218,
+                  "length": 155
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 1,
+                  "polygon": [
+                    0.3903,
+                    7.6026,
+                    7.4257,
+                    7.609,
+                    7.4254,
+                    7.9437,
+                    0.39,
+                    7.9374
+                  ]
+                }
+              ],
+              "content": "\u00b7 Built and monitored real-time ML inference pipelines, supporting adaptive calibration mechanisms and ensuring continuous model performance and relevance.",
+              "pageNumber": 1,
+              "boundingBox": {
+                "x": 0.39,
+                "y": 7.6026,
+                "width": 7.0357,
+                "height": 0.34109999999999996
+              }
+            }
+          ],
+          "children": []
+        }
+      ],
+      "llm_corrected_promotion": true
+    },
+    {
+      "section_id": "section-5",
+      "metadata": {
+        "spans": [
+          {
+            "offset": 4736,
+            "length": 463
+          }
+        ],
+        "element_refs": [
+          "/paragraphs/44",
+          "/sections/6",
+          "/sections/7"
+        ]
+      },
+      "content": [
+        {
+          "spans": [
+            {
+              "offset": 4736,
+              "length": 8
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                0.3845,
+                3.5596,
+                1.5854,
+                3.5607,
+                1.5852,
+                3.7928,
+                0.3843,
+                3.7917
+              ]
+            }
+          ],
+          "role": "sectionHeading",
+          "content": "PROJECTS",
+          "pageNumber": 2,
+          "boundingBox": {
+            "x": 0.3843,
+            "y": 3.5596,
+            "width": 1.2010999999999998,
+            "height": 0.23320000000000007
+          }
+        }
+      ],
+      "children": [
+        {
+          "section_id": "section-6",
+          "metadata": {
+            "spans": [
+              {
+                "offset": 4745,
+                "length": 211
+              }
+            ],
+            "element_refs": [
+              "/paragraphs/45",
+              "/paragraphs/46",
+              "/paragraphs/47"
+            ]
+          },
+          "content": [
+            {
+              "spans": [
+                {
+                  "offset": 4745,
+                  "length": 17
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    0.3786,
+                    4.0211,
+                    1.6812,
+                    4.024,
+                    1.6808,
+                    4.1993,
+                    0.3782,
+                    4.1965
+                  ]
+                }
+              ],
+              "role": "sectionHeading",
+              "content": "AI Text Detection",
+              "pageNumber": 2,
+              "boundingBox": {
+                "x": 0.3782,
+                "y": 4.0211,
+                "width": 1.303,
+                "height": 0.17820000000000036
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 4763,
+                  "length": 19
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    0.5641,
+                    4.2617,
+                    1.8227,
+                    4.26,
+                    1.8229,
+                    4.4061,
+                    0.5643,
+                    4.4079
+                  ]
+                }
+              ],
+              "content": "Jan 2024 - Feb 2024",
+              "pageNumber": 2,
+              "boundingBox": {
+                "x": 0.5641,
+                "y": 4.26,
+                "width": 1.2588,
+                "height": 0.14789999999999992
+              }
+            },
+            {
+              "spans": [
+                {
+                  "offset": 4783,
+                  "length": 173
+                }
+              ],
+              "boundingRegions": [
+                {
+                  "pageNumber": 2,
+                  "polygon": [
+                    0.3882,
+                    4.3916,
+                    7.7259,
+                    4.3992,
+                    7.7256,
+                    4.7426,
+                    0.3878,
+                    4.7351
+                  ]
+                }
+              ],
+              "content": "\u00b7 Built a robust domain-adaptive self-supervised Al text detection model using PyTorch, HuggingFace, contrastive loss, and MMD, achieving high generalization across domains.",
+              "pageNumber": 2,
+              "boundingBox": {
+                "x": 0.3878,
+                "y": 4.3916,
+                "width": 7.3381,
+                "height": 0.351
+              }
+            }
+          ],
+          "children": []
+        }
+      ],
+      "llm_corrected_promotion": true
+    },
+    {
+      "section_id": "section-8",
+      "metadata": {
+        "spans": [
+          {
+            "offset": 5200,
+            "length": 630
+          }
+        ],
+        "element_refs": [
+          "/paragraphs/53",
+          "/paragraphs/54",
+          "/paragraphs/55",
+          "/paragraphs/56",
+          "/paragraphs/57",
+          "/paragraphs/58",
+          "/paragraphs/59",
+          "/paragraphs/60",
+          "/paragraphs/61",
+          "/paragraphs/62",
+          "/paragraphs/63"
+        ]
+      },
+      "content": [
+        {
+          "spans": [
+            {
+              "offset": 5200,
+              "length": 28
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                0.3852,
+                6.2323,
+                4.1603,
+                6.2327,
+                4.1603,
+                6.4689,
+                0.3851,
+                6.4686
+              ]
+            }
+          ],
+          "role": "sectionHeading",
+          "content": "EDUCATION AND CERTIFICATIONS",
+          "pageNumber": 2,
+          "boundingBox": {
+            "x": 0.3851,
+            "y": 6.2323,
+            "width": 3.7752000000000003,
+            "height": 0.23659999999999926
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 5229,
+              "length": 96
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                0.3807,
+                6.679,
+                4.5553,
+                6.6801,
+                4.5552,
+                7.1333,
+                0.3806,
+                7.1322
+              ]
+            }
+          ],
+          "content": "Data Science Engineering (Major) EECS (Minor) Indian Institute of Science Education and Research",
+          "pageNumber": 2,
+          "boundingBox": {
+            "x": 0.3806,
+            "y": 6.679,
+            "width": 4.1747,
+            "height": 0.4542999999999999
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 5326,
+              "length": 11
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                0.3772,
+                7.1731,
+                1.3063,
+                7.1754,
+                1.306,
+                7.3241,
+                0.3768,
+                7.3219
+              ]
+            }
+          ],
+          "content": "2020 - 2024",
+          "pageNumber": 2,
+          "boundingBox": {
+            "x": 0.3768,
+            "y": 7.1731,
+            "width": 0.9295,
+            "height": 0.1509999999999998
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 5338,
+              "length": 24
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                6.4049,
+                7.1703,
+                7.9571,
+                7.1733,
+                7.9568,
+                7.3357,
+                6.4046,
+                7.3328
+              ]
+            }
+          ],
+          "content": "\u058f Bhopal, Madhya Pradesh",
+          "pageNumber": 2,
+          "boundingBox": {
+            "x": 6.4046,
+            "y": 7.1703,
+            "width": 1.5524999999999993,
+            "height": 0.1654
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 5363,
+              "length": 95
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                0.3853,
+                7.327,
+                6.1324,
+                7.322,
+                6.1326,
+                7.4913,
+                0.3854,
+                7.4962
+              ]
+            }
+          ],
+          "content": "\u00b7 Mathematics: Linear Algebra, Multivariable Calculus, Discrete Maths, Probability & Statistics",
+          "pageNumber": 2,
+          "boundingBox": {
+            "x": 0.3853,
+            "y": 7.322,
+            "width": 5.7473,
+            "height": 0.1741999999999999
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 5459,
+              "length": 197
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                0.3901,
+                7.4936,
+                7.5994,
+                7.4895,
+                7.5996,
+                7.8353,
+                0.3903,
+                7.8394
+              ]
+            }
+          ],
+          "content": "\u00b7 Computer Science/Data Science: Data Science in Practice, Machine Learning, Computer Vision, Data Structures and Algorithms, Artificial Intelligence, Advanced Natural Language Processing (ongoing)",
+          "pageNumber": 2,
+          "boundingBox": {
+            "x": 0.3901,
+            "y": 7.4895,
+            "width": 7.209499999999999,
+            "height": 0.34990000000000077
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 5657,
+              "length": 14
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                0.3823,
+                7.9673,
+                1.2292,
+                7.9677,
+                1.2291,
+                8.1119,
+                0.3823,
+                8.1115
+              ]
+            }
+          ],
+          "content": "CGPA - 8.23/10",
+          "pageNumber": 2,
+          "boundingBox": {
+            "x": 0.3823,
+            "y": 7.9673,
+            "width": 0.8469000000000001,
+            "height": 0.1446000000000005
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 5672,
+              "length": 55
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                0.3802,
+                8.3134,
+                1.9694,
+                8.3205,
+                1.9659,
+                9.1081,
+                0.3767,
+                9.101
+              ]
+            }
+          ],
+          "content": "Higher Secondary Poona College 2020 Percentage - 84.00%",
+          "pageNumber": 2,
+          "boundingBox": {
+            "x": 0.3767,
+            "y": 8.3134,
+            "width": 1.5927,
+            "height": 0.7947000000000006
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 5728,
+              "length": 19
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                6.7072,
+                8.8107,
+                7.9544,
+                8.8127,
+                7.9541,
+                8.9627,
+                6.7069,
+                8.9607
+              ]
+            }
+          ],
+          "content": "9 Pune, Maharashtra",
+          "pageNumber": 2,
+          "boundingBox": {
+            "x": 6.7069,
+            "y": 8.8107,
+            "width": 1.2474999999999996,
+            "height": 0.15199999999999925
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 5748,
+              "length": 63
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                0.3781,
+                9.3005,
+                2.6593,
+                9.2945,
+                2.6613,
+                10.0756,
+                0.3801,
+                10.0815
+              ]
+            }
+          ],
+          "content": "Secondary Bhishops CO-ED School, Undri 2018 Percentage - 91.40%",
+          "pageNumber": 2,
+          "boundingBox": {
+            "x": 0.3781,
+            "y": 9.2945,
+            "width": 2.2832000000000003,
+            "height": 0.7870000000000008
+          }
+        },
+        {
+          "spans": [
+            {
+              "offset": 5812,
+              "length": 18
+            }
+          ],
+          "boundingRegions": [
+            {
+              "pageNumber": 2,
+              "polygon": [
+                6.7355,
+                9.795,
+                7.9546,
+                9.7955,
+                7.9546,
+                9.9405,
+                6.7355,
+                9.94
+              ]
+            }
+          ],
+          "content": "9 Pune,Maharashtra",
+          "pageNumber": 2,
+          "boundingBox": {
+            "x": 6.7355,
+            "y": 9.795,
+            "width": 1.2191,
+            "height": 0.14550000000000018
+          }
+        }
+      ],
+      "children": [],
+      "llm_corrected_promotion": true
+    }
+  ]
+}

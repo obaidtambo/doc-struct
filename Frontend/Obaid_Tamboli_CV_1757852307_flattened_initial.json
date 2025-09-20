@@ -1,0 +1,1114 @@
+{
+  "documentId": "Obaid_Tamboli_CV_1757852307",
+  "pageDimensions": [
+    {
+      "page_number": 1,
+      "width": 8.2639,
+      "height": 11.6806
+    },
+    {
+      "page_number": 2,
+      "width": 8.2639,
+      "height": 11.6806
+    }
+  ],
+  "paragraphs": [
+    {
+      "id": "para-root",
+      "parentId": null,
+      "content": "Obaid_Tamboli_CV_1757852307",
+      "role": "documentRoot",
+      "level": 0,
+      "boundingBox": null,
+      "page_number": null,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-1",
+      "parentId": "para-root",
+      "content": "section-0",
+      "role": "sectionHeading",
+      "level": 1,
+      "boundingBox": null,
+      "page_number": null,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-2",
+      "parentId": "para-1",
+      "content": "TECHNICAL SKILLS",
+      "role": "sectionHeading",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.383,
+        "y": 8.1116,
+        "width": 2.1381,
+        "height": 0.2301000000000002
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-3",
+      "parentId": "para-2",
+      "content": "\u00b7 Core Programming & Data Science: Python (Pandas, NumPy, Scikit-learn, PyTorch, NLTK), SQL, Java - solid foundation for statistical modeling, feature engineering, and algorithm development. Exploratory Data Analysis in Python | Udemy",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.3922,
+        "y": 8.5209,
+        "width": 7.3945,
+        "height": 0.3865000000000016
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-4",
+      "parentId": "para-2",
+      "content": "Hypothesis Testing | Udemy",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.5628,
+        "y": 8.9895,
+        "width": 1.7333999999999998,
+        "height": 0.17630000000000123
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-5",
+      "parentId": "para-2",
+      "content": "Neural Networks in Python | Udemy Intro to Deep Learning in Java | Udemy",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 2.4922,
+        "y": 8.9886,
+        "width": 4.7591,
+        "height": 0.17650000000000077
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-6",
+      "parentId": "para-2",
+      "content": "Data Analytics & EDA App | Udemy",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.5644,
+        "y": 9.243,
+        "width": 2.1313,
+        "height": 0.17689999999999984
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-7",
+      "parentId": "para-2",
+      "content": "\u00b7 Machine Learning & Statistical Modeling: Panel Regression, Logistic Regression, Classification, Clustering, Segmentation Analysis, Time Series Forecasting, Statistical Validation; Explainable AI (SHAP, LIME) - applied across risk modeling, compliance, and forecasting use cases. Credit Risk in Python | Udemy",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.3921,
+        "y": 9.4847,
+        "width": 7.5386,
+        "height": 0.5465999999999998
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-8",
+      "parentId": "para-2",
+      "content": "Introduction to Finance, Accounting, Modelling & Valuation | Udemy",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.5623,
+        "y": 10.1112,
+        "width": 4.133100000000001,
+        "height": 0.17189999999999905
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-9",
+      "parentId": "para-2",
+      "content": "\u00b7 GenAI & Intelligent Agents: LangChain, HuggingFace Transformers, LangGraph, Google Agentic Frameworks (AutoGen, Model Context Protocol - MPC), Retrieval-Augmented Generation (RAG) pipelines - building autonomous LLM-driven agents for compliance checking, reporting, and knowledge extraction.",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.3946,
+        "y": 10.3568,
+        "width": 7.391,
+        "height": 0.4962
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-10",
+      "parentId": "para-2",
+      "content": "Gen AI Foundational Models for NLP & Language Understanding | IBM",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.569,
+        "y": 10.8908,
+        "width": 4.2892,
+        "height": 0.17159999999999975
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-11",
+      "parentId": "para-2",
+      "content": "Introduction to Generative AI | Google Cloud",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 5.0529,
+        "y": 10.898,
+        "width": 2.7016,
+        "height": 0.16249999999999964
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-12",
+      "parentId": "para-2",
+      "content": "Introduction to Large Language Models | Google Cloud",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.5675,
+        "y": 0.5243,
+        "width": 3.3624,
+        "height": 0.17759999999999998
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-13",
+      "parentId": "para-2",
+      "content": "Designing AI Assistants | Udemy",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 4.122,
+        "y": 0.5262,
+        "width": 2.0112000000000005,
+        "height": 0.17700000000000005
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-14",
+      "parentId": "para-2",
+      "content": "LangGraph | Udemy",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.5613,
+        "y": 0.7824,
+        "width": 1.2336,
+        "height": 0.1773
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-15",
+      "parentId": "para-2",
+      "content": "\u00b7 Responsible Al & Ethics: Bias mitigation, fairness, explainability, and compliance-driven Al practices - ensuring ethical, transparent, and trustworthy AI systems. Introduction to Responsible AI | Google Cloud",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.3915,
+        "y": 1.0229,
+        "width": 7.3908000000000005,
+        "height": 0.3780000000000001
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-16",
+      "parentId": "para-2",
+      "content": "Responsible AI: Applying AI Principles | Google Cloud Responsible AI | Udemy",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.5603,
+        "y": 1.4806,
+        "width": 4.937,
+        "height": 0.17990000000000017
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-17",
+      "parentId": "para-2",
+      "content": "\u00b7 Cloud & Big Data Platforms: Azure ML (Document Intelligence, Cognitive Search), Google Vertex Al, BigQuery, PySpark, Docker, Git, CI/CD pipelines - orchestrating end-to-end ML & GenAI workflows from training to enterprise-scale deployment. Google Cloud Professional ML Engineer",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.3939,
+        "y": 1.7244,
+        "width": 7.358899999999999,
+        "height": 0.5488999999999999
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-18",
+      "parentId": "para-2",
+      "content": "\u00b7 MLOps & Model Lifecycle Management: MLflow, Model Monitoring (EvidentlyAl, Prometheus), Data Pipeline Orchestration (Airflow, Prefect) - ensuring reproducibility, scalable deployment, and continuous monitoring. Google Cloud Professional ML Engineer Data Analytics & EDA App | Udemy",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.3878,
+        "y": 2.3384,
+        "width": 7.571599999999999,
+        "height": 0.5629
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-19",
+      "parentId": "para-2",
+      "content": "\u00b7 Visualization & Automation: PowerBI, Matlab, N8n (workflow automation) - translating models into business insights and automated decision support. Data Visualization with PowerBI | Microsoft (recommended)",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.3921,
+        "y": 2.9544,
+        "width": 7.5676,
+        "height": 0.4017999999999997
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-20",
+      "parentId": "para-root",
+      "content": "section-1",
+      "role": "sectionHeading",
+      "level": 1,
+      "boundingBox": null,
+      "page_number": null,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-21",
+      "parentId": "para-20",
+      "content": "OBAID TAMBOLI",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.39,
+        "y": 0.4539,
+        "width": 2.5684,
+        "height": 0.3098
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-22",
+      "parentId": "para-20",
+      "content": "Gen-AI Specialist | ML Engineer",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3856,
+        "y": 0.8591,
+        "width": 2.3651,
+        "height": 0.1915
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-23",
+      "parentId": "para-20",
+      "content": "@ tamboliobaid@gmail.com",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3827,
+        "y": 1.1169,
+        "width": 1.443,
+        "height": 0.1420999999999999
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-24",
+      "parentId": "para-20",
+      "content": "C +91 7066799011",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 2.0795,
+        "y": 1.1178,
+        "width": 0.9744999999999999,
+        "height": 0.1282000000000001
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-25",
+      "parentId": "para-20",
+      "content": "Web",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 4.262,
+        "y": 1.1237,
+        "width": 0.23110000000000053,
+        "height": 0.11730000000000018
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-26",
+      "parentId": "para-root",
+      "content": "EXPERIENCE",
+      "role": "sectionHeading",
+      "level": 1,
+      "boundingBox": {
+        "x": 0.3864,
+        "y": 1.4819,
+        "width": 1.4077,
+        "height": 0.2226999999999999
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-27",
+      "parentId": "para-26",
+      "content": "Sr. Executive Consultant (AI/ML)",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.383,
+        "y": 1.9167,
+        "width": 2.8775,
+        "height": 0.23459999999999992
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-28",
+      "parentId": "para-26",
+      "content": "Deloitte India",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3802,
+        "y": 2.1897,
+        "width": 1.0062000000000002,
+        "height": 0.17399999999999993
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-29",
+      "parentId": "para-26",
+      "content": "@ 2024 - Present",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3769,
+        "y": 2.4323,
+        "width": 1.1169,
+        "height": 0.16080000000000005
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-30",
+      "parentId": "para-26",
+      "content": "\u00b7 Mumbai, India",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 6.9639,
+        "y": 2.4436,
+        "width": 0.9887000000000006,
+        "height": 0.1440999999999999
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-31",
+      "parentId": "para-26",
+      "content": "\u00b7 Engineered and deployed a GenAl-based compliance checker utilizing Azure Document Intelligence, LangChain, and RAG pipelines, reducing manual review effort by 50% through automated document analysis.",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3858,
+        "y": 2.6256,
+        "width": 7.2898000000000005,
+        "height": 0.33720000000000017
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-32",
+      "parentId": "para-26",
+      "content": "\u00b7 Developed and optimized scalable ETL pipelines for complex IFRS 9 PD/ECL computations, improving data throughput by 40% across large-scale banking operations.",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3935,
+        "y": 2.9947,
+        "width": 7.561699999999999,
+        "height": 0.3477000000000001
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-33",
+      "parentId": "para-26",
+      "content": "\u00b7 Implemented advanced panel regression, logistic regression, classification, and clustering algorithms for financial stress testing and segmentation, elevating predictive accuracy for enterprise risk models.",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3922,
+        "y": 3.3735,
+        "width": 7.5639,
+        "height": 0.33630000000000004
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-34",
+      "parentId": "para-26",
+      "content": "\u00b7 Designed and automated MLOps pipelines with CI/CD, MLflow, and Docker, cutting model deployment time by 30% and ensuring reproducible, scalable rollouts.",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3902,
+        "y": 3.7414,
+        "width": 7.4162,
+        "height": 0.3447
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-35",
+      "parentId": "para-26",
+      "content": "\u00b7 Orchestrated the architectural design and migration of financial blob documents to a relational database, enabling hierarchical analysis and achieving faster query performance for critical reporting.",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3896,
+        "y": 4.1179,
+        "width": 7.0947000000000005,
+        "height": 0.34360000000000035
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-36",
+      "parentId": "para-26",
+      "content": "\u00b7 Leveraged BigQuery and PySpark to engineer and optimize large-scale data processing pipelines, automating credit risk analytics and regulatory reporting for enhanced efficiency.",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3858,
+        "y": 4.4895,
+        "width": 7.508,
+        "height": 0.34250000000000025
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-37",
+      "parentId": "para-26",
+      "content": "\u00b7 Conducted rigorous statistical validation of deployed ML models, ensuring robustness and compliance with Basel/IFRS standards and mitigating regulatory risks.",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3889,
+        "y": 4.8658,
+        "width": 7.4358,
+        "height": 0.3392999999999997
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-38",
+      "parentId": "para-26",
+      "content": "\u00b7 Managed and maintained Git-based version control workflows for collaborative development, guaranteeing reproducibility of ML stress testing frameworks across global teams.",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3896,
+        "y": 5.2357,
+        "width": 6.7088,
+        "height": 0.3443000000000005
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-39",
+      "parentId": "para-26",
+      "content": "Data Science Intern",
+      "role": "sectionHeading",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.387,
+        "y": 5.8083,
+        "width": 1.7243,
+        "height": 0.1993999999999998
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-40",
+      "parentId": "para-39",
+      "content": "Respirer Living Sciences Pvt. Ltd \u66f2 2023 9 Pune, India",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.3751,
+        "y": 6.0544,
+        "width": 7.576700000000001,
+        "height": 0.39229999999999965
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-41",
+      "parentId": "para-39",
+      "content": "\u00b7 Developed and deployed resilient time series forecasting models for real-time healthcare monitoring systems, enhancing predictive accuracy by 15% for critical patient indicators.",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.3878,
+        "y": 6.4791,
+        "width": 7.536099999999999,
+        "height": 0.3459000000000003
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-42",
+      "parentId": "para-39",
+      "content": "\u00b7 Applied and integrated classification and clustering techniques to improve the precision of anomaly detection by 20% in large-scale environmental datasets.",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.3884,
+        "y": 6.8557,
+        "width": 7.5347,
+        "height": 0.33480000000000043
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-43",
+      "parentId": "para-39",
+      "content": "\u00b7 Implemented Explainable AI (SHAP, LIME) techniques within production models, increasing model transparency and building stakeholder trust in predictive outputs.",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.389,
+        "y": 7.2279,
+        "width": 7.2526,
+        "height": 0.33530000000000015
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-44",
+      "parentId": "para-39",
+      "content": "\u00b7 Built and monitored real-time ML inference pipelines, supporting adaptive calibration mechanisms and ensuring continuous model performance and relevance.",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.39,
+        "y": 7.6026,
+        "width": 7.0357,
+        "height": 0.34109999999999996
+      },
+      "page_number": 1,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-45",
+      "parentId": "para-root",
+      "content": "PROJECTS",
+      "role": "sectionHeading",
+      "level": 1,
+      "boundingBox": {
+        "x": 0.3843,
+        "y": 3.5596,
+        "width": 1.2010999999999998,
+        "height": 0.23320000000000007
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-46",
+      "parentId": "para-45",
+      "content": "AI Text Detection",
+      "role": "sectionHeading",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3782,
+        "y": 4.0211,
+        "width": 1.303,
+        "height": 0.17820000000000036
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-47",
+      "parentId": "para-46",
+      "content": "Jan 2024 - Feb 2024",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.5641,
+        "y": 4.26,
+        "width": 1.2588,
+        "height": 0.14789999999999992
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-48",
+      "parentId": "para-46",
+      "content": "\u00b7 Built a robust domain-adaptive self-supervised Al text detection model using PyTorch, HuggingFace, contrastive loss, and MMD, achieving high generalization across domains.",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.3878,
+        "y": 4.3916,
+        "width": 7.3381,
+        "height": 0.351
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-49",
+      "parentId": "para-45",
+      "content": "Mufti Chatbot",
+      "role": "sectionHeading",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3781,
+        "y": 4.976,
+        "width": 1.0539,
+        "height": 0.17959999999999976
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-50",
+      "parentId": "para-49",
+      "content": "Nov 2024 - Ongoing",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.376,
+        "y": 5.197,
+        "width": 1.4024,
+        "height": 0.1711999999999998
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-51",
+      "parentId": "para-49",
+      "content": "\u00b7 Fine-tuned Llama2-7B model on Islamic QA dataset, improving response accuracy.",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.3846,
+        "y": 5.348,
+        "width": 5.1683,
+        "height": 0.18679999999999986
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-52",
+      "parentId": "para-49",
+      "content": "\u00b7 Integrated RAG pipeline with LangChain for contextual retrieval.",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.3867,
+        "y": 5.5571,
+        "width": 4.0179,
+        "height": 0.1802999999999999
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-53",
+      "parentId": "para-49",
+      "content": "\u00b7 Built web interface with Chainlit and deployed on Azure ML.",
+      "role": "paragraph",
+      "level": 3,
+      "boundingBox": {
+        "x": 0.3829,
+        "y": 5.7635,
+        "width": 3.7612999999999994,
+        "height": 0.17540000000000067
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-54",
+      "parentId": "para-root",
+      "content": "EDUCATION AND CERTIFICATIONS",
+      "role": "sectionHeading",
+      "level": 1,
+      "boundingBox": {
+        "x": 0.3851,
+        "y": 6.2323,
+        "width": 3.7752000000000003,
+        "height": 0.23659999999999926
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-55",
+      "parentId": "para-54",
+      "content": "Data Science Engineering (Major) EECS (Minor) Indian Institute of Science Education and Research",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3806,
+        "y": 6.679,
+        "width": 4.1747,
+        "height": 0.4542999999999999
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-56",
+      "parentId": "para-54",
+      "content": "2020 - 2024",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3768,
+        "y": 7.1731,
+        "width": 0.9295,
+        "height": 0.1509999999999998
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-57",
+      "parentId": "para-54",
+      "content": "\u058f Bhopal, Madhya Pradesh",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 6.4046,
+        "y": 7.1703,
+        "width": 1.5524999999999993,
+        "height": 0.1654
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-58",
+      "parentId": "para-54",
+      "content": "\u00b7 Mathematics: Linear Algebra, Multivariable Calculus, Discrete Maths, Probability & Statistics",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3853,
+        "y": 7.322,
+        "width": 5.7473,
+        "height": 0.1741999999999999
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-59",
+      "parentId": "para-54",
+      "content": "\u00b7 Computer Science/Data Science: Data Science in Practice, Machine Learning, Computer Vision, Data Structures and Algorithms, Artificial Intelligence, Advanced Natural Language Processing (ongoing)",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3901,
+        "y": 7.4895,
+        "width": 7.209499999999999,
+        "height": 0.34990000000000077
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-60",
+      "parentId": "para-54",
+      "content": "CGPA - 8.23/10",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3823,
+        "y": 7.9673,
+        "width": 0.8469000000000001,
+        "height": 0.1446000000000005
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-61",
+      "parentId": "para-54",
+      "content": "Higher Secondary Poona College 2020 Percentage - 84.00%",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3767,
+        "y": 8.3134,
+        "width": 1.5927,
+        "height": 0.7947000000000006
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-62",
+      "parentId": "para-54",
+      "content": "9 Pune, Maharashtra",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 6.7069,
+        "y": 8.8107,
+        "width": 1.2474999999999996,
+        "height": 0.15199999999999925
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-63",
+      "parentId": "para-54",
+      "content": "Secondary Bhishops CO-ED School, Undri 2018 Percentage - 91.40%",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 0.3781,
+        "y": 9.2945,
+        "width": 2.2832000000000003,
+        "height": 0.7870000000000008
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    },
+    {
+      "id": "para-64",
+      "parentId": "para-54",
+      "content": "9 Pune,Maharashtra",
+      "role": "paragraph",
+      "level": 2,
+      "boundingBox": {
+        "x": 6.7355,
+        "y": 9.795,
+        "width": 1.2191,
+        "height": 0.14550000000000018
+      },
+      "page_number": 2,
+      "enrichment": null,
+      "isMerged": false,
+      "sourceIds": null
+    }
+  ],
+  "history": [],
+  "uiState": {
+    "currentView": null,
+    "selectedIds": null
+  },
+  "initialParagraphs": [],
+  "mergeSuggestions": []
+}

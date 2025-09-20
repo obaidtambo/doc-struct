@@ -1,6 +1,0 @@
-{
-  "name": "Doc-Struct",
-  "description": "An application to convert unstructured document text into a structured relational table and a visual graph representation using AI. Paste your document text, and the app will analyze its hierarchy, identify sections, and display the relationships between them.",
-  "requestFramePermissions": [],
-  "prompt": ""
-}

@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/upload-pdf/", "destination": "http://127.0.0.1:8000/upload-pdf/" },
+    { "source": "/document-status/**", "destination": "http://127.0.0.1:8000/document-status/:splat" },
+    { "source": "/save-document-state/", "destination": "http://127.0.0.1:8000/save-document-state/" },
+    { "source": "/**", "destination": "/index.html" }
+  ]
+}
